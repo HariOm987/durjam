@@ -1,4 +1,11 @@
 <html>
+  <head>
+    <style>
+div {
+  background-image: url('https://wallpaperaccess.com/full/713004.jpg');
+}
+</style>
+  </head>
   <H1>Guard The Towers</H1>
   <h2>Round up someone to play with!</H2>
   <H3>Controls are in-game.<br></h3>
